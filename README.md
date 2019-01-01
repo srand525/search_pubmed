@@ -9,7 +9,7 @@ NCBISearch.py and NCBIFetch.py do the work of searching for, and fetching docume
 
 PUBMEDParse.py parses the text from the documents into relational tables.
 
-Users should use the Jupyter Notebook, run_ncbi_search.ipynb, to specify their search terms, retrieve and view results.
+Users should use the Jupyter Notebook, `run_ncbi_search.ipynb`, to specify their search terms, retrieve and view results.
 
 You can read more about the PUBMED database here: https://www.ncbi.nlm.nih.gov/pubmed/
 
